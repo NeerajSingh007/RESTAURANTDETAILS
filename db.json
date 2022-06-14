@@ -1,0 +1,225 @@
+{
+  "resturants": [
+    {
+      "name": "The Bombay Canteen",
+      "cat": "Desert",
+      "costforone": 400,
+      "paymentMethods": "Accepts card payments only",
+      "rating": 4.5,
+      "votes": 567,
+      "reviews": 192,
+      "image": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/7/2017/01/190117_TheBombayCanteen.jpg",
+      "id": 1
+    },
+    {
+      "name": "The china kitchen",
+      "cat": "Chinese",
+      "costforone": 200,
+      "paymentMethods": "Accepts card and COD payments",
+      "rating": 3.8,
+      "votes": 231,
+      "reviews": 467,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+      "id": 2
+    },
+    {
+      "name": "Diva - The Italian Restaurant",
+      "cat": "Italian ",
+      "costforone": 200,
+      "paymentMethods": "Accepts COD payments only",
+      "rating": 2.8,
+      "votes": 231,
+      "reviews": 192,
+      "image": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/7/2017/01/190117_TheBombayCanteen.jpg",
+      "id": 3
+    },
+    {
+      "name": "HaldiRam's",
+      "cat": "Indian",
+      "costforone": 100,
+      "paymentMethods": "Accepts COD payments only",
+      "rating": 3.6,
+      "votes": 567,
+      "reviews": 345,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGOlEHYTaUe6g7wTBlwcRu63Ykg-1thM_DQ&usqp=CAU",
+      "id": 4
+    },
+    {
+      "name": "Mary Lou's",
+      "cat": "Desert",
+      "costforone": 200,
+      "paymentMethods": "Accepts card payments only",
+      "rating": 4.2,
+      "votes": 567,
+      "reviews": 467,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4-rTkJlnBQwqRR-anrQveKIRCnR7dpZGQXQ&usqp=CAU",
+      "id": 5
+    },
+    {
+      "name": "Varq",
+      "cat": "Italian",
+      "costforone": 500,
+      "paymentMethods": "Accepts card payments only",
+      "rating": 3.6,
+      "votes": 231,
+      "reviews": 345,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+      "id": 6
+    },
+    {
+      "name": "Bukhara Restaurant",
+      "cat": "Japanese",
+      "costforone": 600,
+      "paymentMethods": "Accepts COD payments only",
+      "rating": 2.8,
+      "votes": 345,
+      "reviews": 467,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGOlEHYTaUe6g7wTBlwcRu63Ykg-1thM_DQ&usqp=CAU",
+      "id": 7
+    },
+    {
+      "name": "Indian Accent",
+      "cat": "Indian",
+      "costforone": 100,
+      "paymentMethods": "Accepts card and COD payments",
+      "rating": 3.6,
+      "votes": 567,
+      "reviews": 345,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+      "id": 8
+    },
+    {
+      "name": "ProPhase Labs, Inc.",
+      "cat": "Chinese",
+      "costforone": 600,
+      "paymentMethods": "Accepts COD payments only",
+      "rating": 4.2,
+      "votes": 745,
+      "reviews": 539,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+      "id": 9
+    },
+    {
+      "name": "NextEra Energy, Inc.",
+      "cat": "Italian",
+      "costforone": 400,
+      "paymentMethods": "Accepts card payments only",
+      "rating": 2.8,
+      "votes": 145,
+      "reviews": 192,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGOlEHYTaUe6g7wTBlwcRu63Ykg-1thM_DQ&usqp=CAU",
+      "id": 10
+    },
+    {
+      "name": "J U G G E R N A U T",
+      "cat": "Italian",
+      "costforone": 200,
+      "paymentMethods": "Accepts card payments only",
+      "rating": 3.1,
+      "votes": 745,
+      "reviews": 467,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+      "id": 11
+    },
+    {
+      "name": "Raajsik",
+      "cat": "Indian",
+      "costforone": 300,
+      "paymentMethods": "Accepts COD payments only",
+      "rating": 3.1,
+      "votes": 231,
+      "reviews": 539,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+      "id": 12
+    },
+    {
+      "name": "Zaffran",
+      "cat": "Italian",
+      "costforone": 100,
+      "paymentMethods": "Accepts card and COD payments",
+      "rating": 3.6,
+      "votes": 745,
+      "reviews": 547,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGOlEHYTaUe6g7wTBlwcRu63Ykg-1thM_DQ&usqp=CAU",
+      "id": 13
+    },
+    {
+      "name": "Jamavar  ",
+      "cat": "Indian",
+      "costforone": 100,
+      "paymentMethods": "Accepts card payments only",
+      "rating": 3.6,
+      "votes": 567,
+      "reviews": 467,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+      "id": 14
+    },
+    {
+      "name": "Baluchi",
+      "cat": "Italian",
+      "costforone": 600,
+      "paymentMethods": "Accepts COD payments only",
+      "rating": 4.2,
+      "votes": 145,
+      "reviews": 467,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+      "id": 15
+    },
+    {
+      "name": "Le Cirque",
+      "cat": "Chinese",
+      "costforone": 600,
+      "paymentMethods": "Accepts card and COD payments",
+      "rating": 3.1,
+      "votes": 345,
+      "reviews": 467,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+      "id": 16
+    },
+    {
+      "name": "Wasabi by Morimoto",
+      "cat": "American",
+      "costforone": 100,
+      "paymentMethods": "Accepts COD payments only",
+      "rating": 4.2,
+      "votes": 745,
+      "reviews": 467,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGOlEHYTaUe6g7wTBlwcRu63Ykg-1thM_DQ&usqp=CAU",
+      "id": 17
+    },
+    {
+      "name": "Moti Mahal Delux",
+      "cat": "American",
+      "costforone": 100,
+      "paymentMethods": "Accepts card and COD payments",
+      "rating": 3.1,
+      "votes": 745,
+      "reviews": 192,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+      "id": 18
+    },
+    {
+      "name": "Bomra's",
+      "cat": "American",
+      "costforone": 100,
+      "paymentMethods": "Accepts card payments only",
+      "rating": 2.8,
+      "votes": 567,
+      "reviews": 547,
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/nutty-chicken-sate-strips-67269e0.jpg",
+      "id": 19
+    },
+    {
+      "name": "Masque",
+      "cat": "American",
+      "costforone": 400,
+      "paymentMethods": "Accepts COD payments only",
+      "rating": 3.6,
+      "votes": 567,
+      "reviews": 539,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkGOlEHYTaUe6g7wTBlwcRu63Ykg-1thM_DQ&usqp=CAU",
+      "id": 20
+    }
+    
+  ]
+}
